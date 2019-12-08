@@ -29,3 +29,6 @@ $ sudo ./rpd-brightness
 
 ![img01](imgs/img01.png)
 
+![img02](imgs/img02.gif)
+
+
